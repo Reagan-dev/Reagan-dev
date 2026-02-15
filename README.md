@@ -1,6 +1,6 @@
 # Hi, I'm REAGAN SIMIYU! 👋
 
-I am a passionate Back End development student at ALX Africa, driven by a curiosity for technology and a love for innovation. My journey begun in compus where still upto date i am studyuing Mechanical engineering and also pessionate in software engineering, exploring new ideas bringing in hand the use of interdisplinary skills into action.
+I am a passionate Back End development graduate from ALX Africa, driven by a curiosity for technology and a love for innovation. My journey begun in compus where still upto date i am studyuing Mechanical engineering and also pessionate in software engineering, exploring new ideas bringing in hand the use of interdisplinary skills into action.
 
 
 ## 🚀 About Me
